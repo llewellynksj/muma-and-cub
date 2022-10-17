@@ -130,3 +130,42 @@ header * {
     border: 1px solid #252525;
 }
 
+/* middle section styles */
+#middle-section {
+    background-color: #d7d8ca;
+}
+
+#middle-text {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    padding: 20px;
+}
+
+#middle-text h2 {
+    line-height: 25px;
+    font-family: Quicksand, sans-serif;
+    padding-bottom: 5px;
+}
+
+.extra-text {
+    display: none;
+}
+
+#middle-text p {
+    line-height: 25px;
+}
+
+#last-paragraph {
+    padding: 5px 0 15px 0;
+}
+
+#middle-button {
+    background-color: #f3e7e4;
+    border: 1px solid #f3e7e4;
+}
+
+#middle-button:hover {
+    background-color: #252525;
+    color: #f3e7e4;
+    border: 1px solid #252525;
+}
