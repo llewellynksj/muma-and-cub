@@ -107,3 +107,25 @@ header * {
 #meet-two, #meet-three {
     display: none;
 }
+
+.button {
+    color: #252525;
+    font-family: "Source Sans Pro", sans-serif;
+    align-self: center;
+    padding: 5px 20px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    border: 1px solid #252525;
+    border-radius: 20px;
+}
+
+#top-button {
+    background-color: #e7d1c9;
+    border: 1px solid #e7d1c9;
+}
+
+#top-button:hover {
+    background-color: #252525;
+    color: #e7d1c9;
+    border: 1px solid #252525;
+}
