@@ -71,3 +71,10 @@ header * {
     color: #252525;
     padding: 2px 8px;
 }
+
+#navigation a:hover {
+    background-color: #cacbb9;
+    box-shadow: 5px 10px #bdbfa8;
+    border: 1px solid #cacbb9;
+    border-radius: 20px;
+}
