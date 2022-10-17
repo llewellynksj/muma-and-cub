@@ -173,3 +173,34 @@ header * {
     color: #f3e7e4;
     border: 1px solid #252525;
 }
+
+/* lower section styles */
+#lower-text {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    padding: 20px;
+}
+
+#lower-text h2 {
+    font-family: Quicksand, sans-serif;
+    line-height: 25px;
+}
+
+#lower-text h3, #lower-text li {
+    font-weight: 400;
+}
+
+#lower-text li {
+    margin-bottom: 15px;
+}
+
+#lower-button {
+    background-color: #e7d1c9;
+    border: 1px solid #e7d1c9;
+}
+
+#lower-button:hover {
+    background-color: #252525;
+    color: #e7d1c9;
+    border: 1px solid #252525;
+}
