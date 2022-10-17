@@ -22,7 +22,7 @@ header * {
     background-color: #e7d1c9;
 }
 
-.flex-container-logo {
+.flex-container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -34,20 +34,19 @@ header * {
     padding-top: 5px;
 }
 
-.flex-logo-text {
-    display: flex;
+#logo-text {
     flex-direction: column;
+    align-items: flex-start;
     padding-top: 10px;
 }
 
-#logo-text {
+#logo-name {
     font-family: Quicksand, sans-serif;
     padding-top: 10px;
-    text-align: left;
     font-size: 30px;
 }
 
-#logo-text a {
+#logo-name a {
     color: #252525;
 }
 
