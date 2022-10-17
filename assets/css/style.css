@@ -23,6 +23,10 @@ body {
     align-items: center;
 }
 
+img {
+    width: 100%;
+}
+
 /* ************************mobile styles***************************** */
 /* header */
 header * {
