@@ -1,0 +1,60 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Source+Sans+Pro:wght@300;400&display=swap');
+
+/* remove default styles */
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-decoration: none;
+    list-style: none;
+}
+
+/* base styles */
+body {
+    color: #252525;
+    background-color: #f3e7e4;
+}
+
+/* ************************mobile styles***************************** */
+/* header */
+header * {
+    background-color: #e7d1c9;
+}
+
+.flex-container-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo-image {
+    height: 70px;
+    width: auto;
+    padding-top: 5px;
+}
+
+.flex-logo-text {
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+}
+
+#logo-text {
+    font-family: Quicksand, sans-serif;
+    padding-top: 10px;
+    text-align: left;
+    font-size: 30px;
+}
+
+#logo-text a {
+    color: #252525;
+}
+
+#tagline {
+    font-family: "Source Sans Pro", sans-serif;
+    text-align: center;
+    padding-bottom: 15px;
+    font-size: 15px;
+    font-weight: 400;
+}
