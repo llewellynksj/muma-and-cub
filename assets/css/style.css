@@ -78,3 +78,32 @@ header * {
     border: 1px solid #cacbb9;
     border-radius: 20px;
 }
+
+/* top section styles */
+#top-section {
+    flex-direction: column;
+}
+
+#top-text, #meet-ups {
+    flex-direction: column;
+    text-align: center;
+    align-self: center;
+    line-height: 25px;
+    margin-bottom: 15px;
+}
+
+#top-text h2 {
+    font-family: Quicksand, sans-serif;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+
+#meet-ups h3 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+
+#meet-two, #meet-three {
+    display: none;
+}
