@@ -70,7 +70,7 @@ header * {
 #navigation {
     flex-direction: row;
     justify-content: space-evenly;
-    padding-bottom: 20px;
+    padding-bottom: 12px;
     font-size: 16px;
     font-family: Quicksand, sans-serif;
     font-weight: 600;
@@ -256,24 +256,23 @@ header * {
     }
 
     #navigation {
-        margin-bottom: 0;
         font-size: 18px;
     }
     
-    #top-section {
+    #top-section, #middle-section {
         flex-direction: row;
     }
 
-    #top-image {
+    #top-image, #middle-image, #lower-image {
         width: 50%;
     }
 
-    #top-text {
+    #top-text, #lower-text {
         width: 50%;
         margin: 0;
     }
 
-    #top-text h2 {
+    #top-text h2, #middle-text h2, #lower-text h2 {
         font-size: 30px;
         padding-bottom: 12px;
     }
@@ -287,7 +286,6 @@ header * {
     }
 
     #meet-one, #meet-two {
-        align-self: center;
         margin: 0 auto;
         font-size: 18px;
         padding: 5px 0 5px 0;
@@ -295,5 +293,14 @@ header * {
 
     #top-button {
         margin-bottom: 5px;
+    }
+
+    #lower-section {
+        flex-direction: row-reverse;
+        margin: 0 auto;
+    }
+
+    #lower-text h3, #lower-text li {
+        padding-bottom: 8px;
     }
 }
