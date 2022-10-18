@@ -304,3 +304,33 @@ header * {
         padding-bottom: 8px;
     }
 }
+
+/* ****************************** desktop styles ****************************** */
+@media only screen and (min-width: 1600px) {
+    body {
+        max-width: 2000px;
+        margin: 0 auto;
+    }
+
+    #meet-three {
+        display: initial;
+    }
+
+    .extra-text {
+        display: initial;
+    }
+
+    #middle-text p {
+        padding: 10px;
+    }
+    
+    #middle-button, #lower-button {
+        margin-top: 10px;
+    }
+
+    #lower-text h2 {
+        margin-bottom: 10px;
+    }
+
+
+}
