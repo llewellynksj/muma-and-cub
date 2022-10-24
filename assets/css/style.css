@@ -337,6 +337,7 @@ header * {
 .dates-text {
     text-align: center;
     padding: 10px;
+    margin: 10px 0;
 }
 
 .dates-text * {
@@ -349,12 +350,16 @@ header * {
     font-family: Quicksand, sans-serif;
 }
 
+.dates-text p {
+    margin: 15px 0;
+}
+
 /* grid */
 .grid-container {
     margin: 30px 50px;
     display: grid;
     justify-content: center;
-    grid-gap: 20px;
+    grid-gap: 30px;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     grid-auto-rows: 350px;
     background-color: #f3e7e4;
@@ -371,4 +376,8 @@ header * {
 .grid-item h2 {
     font-size: 18px;
     padding: 10px 3px 3px 3px;
+}
+
+.top-button {
+    padding: 5px 20px;
 }
