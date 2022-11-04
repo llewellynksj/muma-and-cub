@@ -242,24 +242,24 @@ footer {
 }
 
 /* ******************** dates page styles ******************** */
-.dates-text {
+.page-info {
     text-align: center;
     padding: 10px;
     margin-bottom: 10px;
 }
 
-.dates-text * {
+.page-info * {
     padding: 5px 0;
     font-family: "Source Sans Pro", sans-serif;
     font-size: 18px;
 }
 
-.dates-text h1 {
+.page-info h1 {
     font-family: Quicksand, sans-serif;
     font-size: 25px;
 }
 
-.dates-text p {
+.page-info p {
     padding-bottom: 15px;
 }
 
@@ -295,6 +295,20 @@ footer {
 
 .top-button {
     padding: 5px 20px;
+}
+
+.activity-button {
+    width: 50px;
+    height: 50px;
+    padding-top: 15px;
+}
+
+.icon-container {
+    display: grid;  
+}
+
+.icon-item {
+    align-self: bottom;
 }
 
 /* ******************** tablet styles ******************** */
