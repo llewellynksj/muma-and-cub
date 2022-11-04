@@ -89,6 +89,41 @@ header * {
     border-radius: 20px;
 }
 
+/* footer styles */
+footer {
+    background-color: #e7d1c9;
+}
+
+#footer {
+    flex-direction: row;
+    align-items: flex-end;
+    height: 30px;
+    width: 100%;
+    padding-top: 20px;
+}
+
+#footer-list {
+    flex-direction: row;
+    margin-right: 20px;
+}
+
+#footer-list i {
+    padding: 10px;
+    font-size: 25px;
+    align-self: flex-end;
+    color: #252525; 
+}
+
+#statement {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 11px;
+    text-align: center;
+    margin: 0 10px;
+    padding-bottom: 5px;
+    background-color: #e7d1c9;
+}
+
+/* ******************** home page styles ******************** */
 /* top section styles */
 #top-text, #meet-ups {
     text-align: center;
@@ -204,36 +239,6 @@ header * {
     background-color: #252525;
     color: #e7d1c9;
     border: 1px solid #252525;
-}
-
-/* footer styles */
-#footer {
-    flex-direction: row;
-    align-items: flex-end;
-    height: 30px;
-    width: 100%;
-    padding-top: 20px;
-    background-color: #e7d1c9;
-}
-
-#footer-list {
-    flex-direction: row;
-    margin-right: 20px;
-}
-
-#footer-list i {
-    padding: 10px;
-    font-size: 25px;
-    align-self: flex-end;
-    color: #252525; 
-}
-
-#statement {
-    font-family: "Source Sans Pro", sans-serif;
-    font-size: 11px;
-    text-align: center;
-    padding-bottom: 5px;
-    background-color: #e7d1c9;
 }
 
 /* ******************** dates page styles ******************** */
