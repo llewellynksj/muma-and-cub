@@ -191,8 +191,8 @@ header * {
     font-weight: 400;
 }
 
-#lower-text li {
-    margin-bottom: 15px;
+#lower-text ul {
+    margin: 10px 0 15px 0;
 }
 
 .lower-button {
