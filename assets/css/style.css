@@ -421,6 +421,27 @@ input[radio] {
     font-size: 18px;
 }
 
+.contact-details {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-style: normal;
+}
+
+.contact-details address {
+    margin-bottom: 25px;
+}
+
+.contact-details i {
+    font-size: 30px;
+    margin: 35px 0 15px 0;
+}
+
+.map-container {
+    width: 100%;
+    height: 250px;
+}
+
 /* ******************** tablet styles ******************** */
 @media only screen and (min-width: 601px) {
     body {
