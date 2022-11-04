@@ -317,6 +317,40 @@ footer {
     align-self: bottom;
 }
 
+/* ******************** support page styles ******************** */
+.support-text, .support-links {
+    text-align: center;
+    align-self: center;
+    line-height: 25px;
+    padding: 10px;
+}
+
+.support-text i {
+    padding-top: 10px;
+}
+
+.support-links a {
+    align-self: flex-start;
+}
+
+.support-text p {
+    padding: 0 30px;
+}
+
+.flex-container h2 {
+    font-family: Quicksand, sans-serif;
+    font-weight: 600;
+    padding: 10px 0;
+}
+
+.support-section {
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+#mental-health {
+    background-color: #d7d8ca;
+}
+
 /* ******************** tablet styles ******************** */
 @media only screen and (min-width: 601px) {
     body {
