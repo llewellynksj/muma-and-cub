@@ -418,12 +418,32 @@ footer {
     #lower-text h3, #lower-text li {
         padding-bottom: 8px;
     }
+
+    #support-title {
+        padding-bottom: 30px;
+    }
+
+    .support-section {
+        flex-direction: row;
+    }
+
+    #mental-health {
+        flex-direction: row-reverse;
+    }
+
+    .support-text {
+        width: 50%;
+    }
+
+    .support-section img {
+        width: 50%;
+    }
 }
 
 /* ******************** desktop styles ******************** */
 @media only screen and (min-width: 1600px) {
     body {
-        max-width: 2000px;
+        max-width: 1600px;
         margin: 0 auto;
     }
 
