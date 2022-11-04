@@ -367,6 +367,60 @@ footer {
     height: 100%;
   }
 
+/* ******************** contact page styles ******************** */
+form {
+    background-color: #d7d8ca;
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    overflow: hidden;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 18px;
+}
+
+.flex-row-item, .flex-button-item {
+    flex-direction: row;    
+}
+
+.flex-form-item * {
+    width: 100%;
+    margin: 5px;
+}
+
+.flex-form-item input[type=text], .flex-form-item input[type=email], .flex-form-item textarea, .flex-form-item label, .flex-form-item p {
+    max-width: 95%;
+}
+
+.flex-form-item input[type=text], .flex-form-item input[type=email] {
+    height: 30px;
+}
+
+input[radio] {
+    margin: 0 auto;
+}
+
+.flex-form-item textarea {
+    height: 150px;
+}
+
+.flex-row-item * {
+    margin: 0 5px;
+    text-align: left;
+}
+
+.flex-row-item {
+    max-width: 200px;
+    justify-content: flex-start;
+    margin: 0 50px;
+}
+
+.flex-button-item * {
+    background-color: #f3e7e4;
+    max-width: 200px;
+    margin: 10px;
+    font-size: 18px;
+}
+
 /* ******************** tablet styles ******************** */
 @media only screen and (min-width: 601px) {
     body {
