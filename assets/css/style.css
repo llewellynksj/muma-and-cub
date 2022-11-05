@@ -443,6 +443,19 @@ input[radio] {
     height: 250px;
 }
 
+/* ******************** thank you page styles ******************** */
+#nav-links-list li {
+    padding: 20px 0;
+}
+
+#nav-links-list a:hover {
+    background-color: #cacbb9;
+    color: #252525;
+    box-shadow: 2px 5px #bdbfa8;
+    border: 1px solid #cacbb9;
+    border-radius: 20px;
+}
+
 /* ******************** tablet styles ******************** */
 @media only screen and (min-width: 601px) {
     body {
@@ -559,6 +572,10 @@ input[radio] {
         width: 100%;
         height: 400px;
         margin: 0 auto;
+    }
+
+    #thank-you-image {
+        max-width: 1024px;
     }
 }
 
