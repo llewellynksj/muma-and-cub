@@ -395,14 +395,20 @@ input[type=text], input[type=email], textarea, label, .flex-form-item p {
 
 input[type=text], input[type=email] {
     height: 30px;
+    padding: 10px 20px;
+    margin: 5px 0;
+    box-sizing: border-box;
 }
 
 input[radio] {
     margin: 0 auto;
 }
 
-.flex-form-item textarea {
+textarea {
     height: 150px;
+    padding: 10px 20px;
+    margin: 5px 0;
+    box-sizing: border-box;
 }
 
 .flex-row-item * {
