@@ -70,7 +70,7 @@ header * {
 #navigation {
     flex-direction: row;
     justify-content: space-evenly;
-    padding-bottom: 12px;
+    padding-bottom: 18px;
     font-size: 16px;
     font-family: Quicksand, sans-serif;
     font-weight: 600;
@@ -388,11 +388,12 @@ form {
     margin: 5px;
 }
 
-.flex-form-item input[type=text], .flex-form-item input[type=email], .flex-form-item textarea, .flex-form-item label, .flex-form-item p {
+input[type=text], input[type=email], textarea, label, .flex-form-item p {
     max-width: 95%;
+    
 }
 
-.flex-form-item input[type=text], .flex-form-item input[type=email] {
+input[type=text], input[type=email] {
     height: 30px;
 }
 
@@ -575,7 +576,7 @@ input[radio] {
     }
 
     #thank-you-image {
-        max-width: 1024px;
+        max-width: 800px;
     }
 }
 
