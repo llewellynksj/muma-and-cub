@@ -369,6 +369,7 @@ footer {
 
 /* ******************** contact page styles ******************** */
 form {
+    border-radius: 20px;
     background-color: #d7d8ca;
     width: 80%;
     margin: 10px auto;
@@ -421,7 +422,7 @@ input[radio] {
     font-size: 18px;
 }
 
-.contact-details {
+.contact-details * {
     font-family: "Source Sans Pro", sans-serif;
     font-size: 20px;
     text-align: center;
