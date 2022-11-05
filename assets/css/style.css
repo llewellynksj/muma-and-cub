@@ -309,6 +309,7 @@ footer {
     padding-top: 15px;
 }
 
+/* styling for images that appear as cost icons */
 .icon-container {
     display: grid;  
 }
@@ -368,6 +369,7 @@ footer {
   }
 
 /* ******************** contact page styles ******************** */
+/* form styles */
 form {
     border-radius: 20px;
     background-color: #d7d8ca;
@@ -429,6 +431,7 @@ textarea {
     font-size: 18px;
 }
 
+/* contact details and map styling */
 .contact-details * {
     font-family: "Source Sans Pro", sans-serif;
     font-size: 20px;
@@ -463,6 +466,7 @@ textarea {
     border-radius: 20px;
 }
 
+
 /* ******************** tablet styles ******************** */
 @media only screen and (min-width: 601px) {
     body {
@@ -473,6 +477,7 @@ textarea {
 
 /* ******************** laptop styles ******************** */
 @media only screen and (min-width: 1024px) {
+    /* common styles */
     body {
         width: 100%;
         margin: 0 auto;
@@ -486,6 +491,7 @@ textarea {
         font-size: 18px;
     }
     
+    /* homepage styles */
     #top-section, #middle-section {
         flex-direction: row;
     }
@@ -531,6 +537,7 @@ textarea {
         padding-bottom: 8px;
     }
 
+    /* support page styles */
     #support-title {
         padding-bottom: 30px;
     }
@@ -551,6 +558,7 @@ textarea {
         width: 50%;
     }
 
+    /* contact page styles */
     .contact-section {
         flex-direction: row;
         margin-bottom: 40px;
@@ -581,6 +589,7 @@ textarea {
         margin: 0 auto;
     }
 
+    /* thank you page styles */
     #thank-you-image {
         max-width: 800px;
     }
@@ -588,11 +597,13 @@ textarea {
 
 /* ******************** desktop styles ******************** */
 @media only screen and (min-width: 1600px) {
+    /* common styles */
     body {
         max-width: 1600px;
         margin: 0 auto;
     }
 
+    /* home page styles */
     #meet-three {
         display: initial;
     }
