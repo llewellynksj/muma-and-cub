@@ -543,11 +543,11 @@ textarea {
     }
 
     .support-section {
-        flex-direction: row;
+        flex-direction: row-reverse;
     }
 
     #mental-health {
-        flex-direction: row-reverse;
+        flex-direction: row;
     }
 
     .support-text {
