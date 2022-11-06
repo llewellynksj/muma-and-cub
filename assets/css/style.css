@@ -30,7 +30,7 @@ img {
 
 /* ******************** mobile styles ******************** */
 /* header styles */
-header * {
+header *, #nav-bar * {
     background-color: #e7d1c9;
 }
 
@@ -62,7 +62,7 @@ header * {
 #tagline {
     font-family: "Source Sans Pro", sans-serif;
     text-align: center;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
     font-size: 15px;
     font-weight: 400;
 }
@@ -70,7 +70,8 @@ header * {
 #navigation {
     flex-direction: row;
     justify-content: space-evenly;
-    padding-bottom: 18px;
+    padding-top: 10px;
+    padding-bottom: 16px;
     font-size: 16px;
     font-family: Quicksand, sans-serif;
     font-weight: 600;
@@ -87,6 +88,11 @@ header * {
     box-shadow: 2px 5px #bdbfa8;
     border: 1px solid #cacbb9;
     border-radius: 20px;
+}
+
+#nav-bar {
+    position: sticky;
+    top: 0;
 }
 
 /* footer styles */
