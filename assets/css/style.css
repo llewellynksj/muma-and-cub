@@ -419,8 +419,7 @@ input[radio] {
 }
 
 .radio {
-    height: 20px;
-    width: 20px;
+    height: 48px;
 }
 
 textarea {
