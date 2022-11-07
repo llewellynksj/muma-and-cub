@@ -100,33 +100,112 @@ The site has been built with a mobile-first responsive design. Keeping the needs
 ----
 
 ## Design
-### Colour Scheme
+### **Colour Scheme**
 This website uses a palette of earthy colours with shades pulled from greens, pinks and browns. These embody the feel that I wanted to create for the site; natural and calming. 
 
 <br>
 
-### Typography
+### **Typography**
 
 <br>
 
-### Imagery
+### **Imagery**
 
 <br>
 
-### Wireframes
+### **Wireframes**
+
+<br>
+
+----
+
+## Features
+### **Existing Features**
+### Homepage
+
+<br>
+
+### Dates
+
+<br>
+
+### Support
+
+<br>
+
+### Contact
+
+<br>
+
+### Thank You
+
+<br>
+
+### **Accessibility**
+
+<br>
+
+### **Future Features**
+
+<br>
+
+----
+
+## Technologies
+
+<br>
+
+----
+
+## Deployment
+
+<br>
+
+----
+
+## Testing
+### **Function Testing**
+
+<br>
+
+### **User Story Testing**
+
+<br>
+
+### **Lighthouse**
+
+<br>
+
+### **Validator Testing**
+  - HTML
+
+  <br>
+
+  - CSS
+
+  <br>
+
+### **Bugs**
+  - Fixed Bugs
+
+  <br>
+
+  - Unfixed Bug
 
 <br>
 
 ----
 
 ## Credits
-### Resources
+### **Resources**
 
 <br>
 
-### Acknowledgements
+### **Acknowledgements**
 I would like to take a moment to acknowledge some key people who helped me in successfully putting together this website and making it something I feel worthy of as very first coding project.
 
-- Ronan McClelland, my Code Institute mentor, for his wise guidance and bombarding me with the best resources available online. I am so grateful.
-- James Llewellyn for taking the time to test every single tiny change I made to my code throughout the development process, and his invaluable opinions.
-- My NCT antental group for providing me with a real life target audience testing group; Sam Landy, Sarah Turner, Christina Collis, Hess Lewis, Sabine Jary, and Katie Bennett.
+- Ronan McClelland, my Code Institute mentor, for his wise guidance and bombarding me with the best resources available online; I am so grateful
+- James Llewellyn for taking the time to test every single tiny change I made to my code throughout the development process, and his invaluable opinions
+- My NCT antental group for providing me with a real-life target audience testing group; Sam Landy, Sarah Turner, Christina Collins, Hess Lewis, Sabine Jary, and Katie Bennett
+- [Kera Cudmore]() for all of her excellent advice on creating README documentation
+- Peer code review responses
