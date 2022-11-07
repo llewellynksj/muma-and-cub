@@ -120,7 +120,7 @@ footer {
     color: #252525; 
 }
 
-#statement {
+.statement {
     font-family: "Source Sans Pro", sans-serif;
     font-size: 11px;
     text-align: center;
