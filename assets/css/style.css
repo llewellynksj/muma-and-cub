@@ -417,6 +417,11 @@ input[radio] {
     margin: 0 auto;
 }
 
+.radio {
+    height: 20px;
+    width: 20px;
+}
+
 textarea {
     height: 150px;
     padding: 10px 20px;
