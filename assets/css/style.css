@@ -343,6 +343,7 @@ footer {
 
 .support-links a {
     align-self: flex-start;
+    padding: 8px 0;
 }
 
 .support-text p {
