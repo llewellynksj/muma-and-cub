@@ -103,7 +103,7 @@ The site has been built with a mobile-first responsive design. Keeping the needs
 ### **Colour Scheme**
 This website uses a palette of earthy colours with shades pulled from greens, pinks and browns. These embody the feel that I wanted to create for the site; natural and calming. The palette was created using the [Coolors](https://coolors.co/) website.
 
-![Image of colour palette from Coolors.co](documentation/readme-images/Muma%20%26%20Cub%20Palette.jpg)
+![Image of colour palette from Coolors.co](documentation/readme-images/Muma-Cub-Palette.jpg)
 
 <br>
 
@@ -208,7 +208,12 @@ For a full PDF of all wireframes (mobile, tablet, desktop) click [here](document
 <br>
 
 ### **Accessibility**
-
+In addition to simply being best practice, having an accessible website is extremely high on the list of requirements for my target audience. I have paid close attention to the following in order to ensure my site is as accessible as possible:
+- Clear and simple font styling, avoiding any cursive or calligraphic scripts.
+- Contrasting colour scheme, but avoiding coloirs that are too bold.
+- Addition of a fixed menu bar so users can easily navigate around the site
+- Use of semantic HTML
+- Ensuring all images have an alt description for screen readers or where the image cannot be loaded. Also ensuring that these are as descriptive as possible.
 <br>
 
 ### **Future Features**
@@ -268,7 +273,7 @@ For a full PDF of all wireframes (mobile, tablet, desktop) click [here](document
 <br>
 
 ### **Acknowledgements**
-I would like to take a moment to acknowledge some key people who helped me in successfully putting together this website and making it something I feel worthy of as very first coding project.
+I would like to take a moment to acknowledge some key people who helped me in successfully putting together this website and making it something I feel worthy of as my very first coding project.
 
 - Ronan McClelland, my Code Institute mentor, for his wise guidance and bombarding me with the best resources available online; I am so grateful
 - James Llewellyn for taking the time to test every single tiny change I made to my code throughout the development process, and his invaluable opinions
