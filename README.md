@@ -101,21 +101,87 @@ The site has been built with a mobile-first responsive design. Keeping the needs
 
 ## Design
 ### **Colour Scheme**
-This website uses a palette of earthy colours with shades pulled from greens, pinks and browns. These embody the feel that I wanted to create for the site; natural and calming. 
+This website uses a palette of earthy colours with shades pulled from greens, pinks and browns. These embody the feel that I wanted to create for the site; natural and calming. The palette was created using the [Coolors](https://coolors.co/) website.
+
+![Image of colour palette from Coolors.co](documentation/readme-images/Muma%20%26%20Cub%20Palette.jpg)
 
 <br>
 
 ### **Typography**
+[Google Fonts](https://fonts.google.com/) was used to source the font styles used throughout the website:
+- Quicksand: Used for the logo and page/section headings
+- Source Sans Pro: Used for main body text
+
+These fonts were chosen to be in keeping with the style of the website; clean and simple. They were also chosen to ensure maximum accessibility.
 
 <br>
 
 ### **Imagery**
+Images found on the homepage, support page, and thank you page were stock photos downloaded from [Pexels](https://www.pexels.com/). They were again chosen to be in keeping with the site design with earthy natural colours.
+
+The teddy bear logo was sourced from [Adobe Stock](https://stock.adobe.com/uk) and [Adobe JPG to Transparent PNG tool](https://www.adobe.com/express/feature/image/convert/jpg-to-png/transparent-png) was used to remove the background.
+
+The images reflecting the cost of activities on the dates page were created by me using [Canva](https://www.canva.com/). I ensured the colours used throughout the website were also reflected in these images.
+
+Icons used on the homepage and support page were imported through [Font Awesome](https://fontawesome.com/).
 
 <br>
 
 ### **Wireframes**
+To create the wireframes I used the [Balsamiq Wireframing Software](https://balsamiq.com/).
+<details>
+<summary>Homepage (mobile)</summary>
+
+![Wireframe image of homepage design on mobile](documentation/wireframes/homepage-full-mobile.PNG)
+</details>
+<details>
+<summary>Homepage (desktop)</summary>
+
+![Wireframe image of homepage design on desktop](documentation/wireframes/homepage-desktop-full.PNG)
+</details>
 
 <br>
+
+<details>
+<summary>Dates page (mobile)</summary>
+
+![Wireframe image of dates page design on mobile](documentation/wireframes/dates-mobile.PNG)
+</details>
+<details>
+<summary>Dates page (desktop)</summary>
+
+![Wireframe image of dates page design on desktop](documentation/wireframes/dates-desktop.PNG)
+</details>
+
+<br>
+
+<details>
+<summary>Support page (mobile)</summary>
+
+![Wireframe image of support page design on mobile](documentation/wireframes/support-mobile.PNG)
+</details>
+<details>
+<summary>Support page (desktop)</summary>
+
+![Wireframe image of support page design on desktop](documentation/wireframes/support-desktop-full.PNG)
+</details>
+
+<br>
+
+<details>
+<summary>Contact page (mobile)</summary>
+
+![Wireframe image of contact page design on mobile](documentation/wireframes/contact-mobile.PNG)
+</details>
+<details>
+<summary>Contact page (desktop)</summary>
+
+![Wireframe image of contact page design on desktop](documentation/wireframes/contact-desktop.PNG)
+</details>
+
+<br>
+
+For a full PDF of all wireframes (mobile, tablet, desktop) click [here](documentation/wireframes/Muma%20%26%20Cub%20Wireframes.pdf).
 
 ----
 
