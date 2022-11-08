@@ -2,7 +2,7 @@
 
 Mama & Cub is a simple to use website aimed at bringing together parents and their children in the Exeter area of South Devon, UK. The site is targeted towards mums who are looking for support from their peers and community. Mama & Cub strives to make information about locations, dates, and costs easy to find for tired parents with little time.
 
-![Image of Mama & Cub website on a varitey of devices with differing screen sizes](docs/readme-images/amiresponsive.PNG)
+![Image of Mama & Cub website on a varitey of devices with differing screen sizes](documentation/readme-images/amiresponsive.PNG)
 
 [Visit the Muma & Cub live website here](https://llewellynksj.github.io/muma-and-cub/index.html)
 
@@ -61,9 +61,9 @@ Mama & Cub is a simple to use website aimed at bringing together parents and the
 ## User Experience (UX)
 ### **Purpose**
 
-Muma & Cub has been created as a fictional website for the purposes of completing the first milestone project as part of the Code Institute's Full Stack Software Development course. It developed as an idea from personal experience of needing a social support for parents in the local community. The needs of new parents are central to considerations around User Experience (UX) and User Interface Design (UI) and this is reflected throughout the site.
+Muma & Cub has been created as a fictional website for the purposes of completing the first milestone project as part of the Code Institute's Full Stack Software Development course. It developed as an idea from personal experience of needing a social support group for parents in the local community. The needs of new parents are central to considerations around User Experience (UX) and User Interface Design (UI) and this is reflected throughout the site.
 
-The site has been built with a mobile-first responsive design. Keeping the needs of the user at the fore-front of the design process particularly in the strategy and scope development stages. 
+The site has been built with a mobile-first responsive design. Keeping the needs of the user at the forefront of the design process particularly in the strategy and scope development stages. 
 
 <br>
 
@@ -119,7 +119,10 @@ These fonts were chosen to be in keeping with the style of the website; clean an
 ### **Imagery**
 Images found on the homepage, support page, and thank you page were stock photos downloaded from [Pexels](https://www.pexels.com/). They were again chosen to be in keeping with the site design with earthy natural colours.
 
-The teddy bear logo was sourced from [Adobe Stock](https://stock.adobe.com/uk) and [Adobe JPG to Transparent PNG tool](https://www.adobe.com/express/feature/image/convert/jpg-to-png/transparent-png) was used to remove the background.
+The teddy bear logo was sourced from [Adobe Stock](https://stock.adobe.com/uk) and [Adobe JPG to Transparent PNG tool](https://www.adobe.com/express/feature/image/convert/jpg-to-png/transparent-png) was used to remove the background. 
+This image was chosen as it immediately represents children, fun and play. On seeing this the user will immediately recognise that this site is for activity related to young children.
+
+![image of the logo; a black and white outline of a teddy bear](documentation/readme-images/bearlogo.webp)
 
 The images reflecting the cost of activities on the dates page were created by me using [Canva](https://www.canva.com/). I ensured the colours used throughout the website were also reflected in these images.
 
@@ -187,7 +190,19 @@ For a full PDF of all wireframes (mobile, tablet, desktop) click [here](document
 
 ## Features
 ### **Existing Features**
+The website has 4 main pages accessible to the user which include the homepage, dates page, support page and contact page. There is also a thank you page which only shows on submission of the contact form.
+
+**All** pages include the following features:
+- Logo and tagline: 
+- Navigation bar:
+- Footer:
+
 ### Homepage
+Taking the user on a journey
+- Next meet up: on mobile shows only the very next meet-up, on tablet shows the next two, on desktop shows the next 3
+- About: tells the user who this group is for
+- Support resources: shows the user that the group is more than just a social group
+- Imagery: keeps the key information on the homepage obviously clear and seperate
 
 <br>
 
@@ -214,9 +229,12 @@ In addition to simply being best practice, having an accessible website is extre
 - Addition of a fixed menu bar so users can easily navigate around the site
 - Use of semantic HTML
 - Ensuring all images have an alt description for screen readers or where the image cannot be loaded. Also ensuring that these are as descriptive as possible.
+
 <br>
 
 ### **Future Features**
+burger menu
+booking system
 
 <br>
 
