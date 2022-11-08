@@ -93,6 +93,7 @@ header *, #nav-bar * {
 #nav-bar {
     position: sticky;
     top: 0;
+    z-index: 1;
 }
 
 /* footer styles */
