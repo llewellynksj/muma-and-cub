@@ -294,10 +294,10 @@ This website has been written in HTML and CSS only.
 - Pexels: Stock images
 - Google DevTools: Used throughout the site's creation to test responsiveness and tweak layout
 - Balsamiq: Wireframe software
-- [Favicon.io](https://favicon.io/): To create favicon
-- [Am I Responsive](https://ui.dev/amiresponsive): To create a visual of the website across different device sizes
-- [BIRME](https://www.birme.net/?): To resize images
-- [ezgif.com](https://ezgif.com/png-to-webp): To convert images to webp files
+- Favicon.io: To create favicon
+- Am I Responsive: To create a visual of the website across different device sizes
+- [BIRME](https://www.birme.net/?) To resize images
+- [ezgif.com](https://ezgif.com/png-to-webp) To convert images to webp files
 
 <br>
 
@@ -344,6 +344,14 @@ This website has been written in HTML and CSS only.
 
 ## Credits
 ### **Resources**
+- [Code Institute]() HTML and CSS learning content and for providing the [template]() used to start this website
+- [Scrimba](https://scrimba.com/) - [CSS Grid Tutorial](https://scrimba.com/learn/cssgrid) and [CSS Flexbox Tutorial](https://scrimba.com/learn/flexbox)
+- [W3Schools](https://www.w3schools.com/) For general tips and advice on a variety of HTML and CSS
+- [CSS-Tricks](https://css-tricks.com/) - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) and [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [The Forgotten CSS Position](https://www.youtube.com/watch?v=NzjU1GmKosQ) YouTube video by [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) 
+- [Embed a YouTube Video in HTML and Make it Responsive](https://www.youtube.com/watch?v=9YffrCViTVk) YouTube video by [tipswithpunch](https://www.youtube.com/c/tipswithpunch)
+- [Handbook Markdown Guide](https://about.gitlab.com/handbook/markdown-guide/) Guidance on using markdown
+- README guides by [Kera Cudmore](https://github.com/kera-cudmore) - [Creating your First README](https://github.com/kera-cudmore/readme-examples) and [README Examples - Milestone 1](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md)
 
 <br>
 
