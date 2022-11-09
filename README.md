@@ -219,18 +219,39 @@ At the end of each section of text there is a call to action button allowing the
 <br>
 
 ### Dates
+The dates page consists of:
+- A simple layout of boxes that form a grid. Each location, date and time is in bold as this is likely to be the information user will want to be able to see quickly and be able to pick up with glance when they scroll through the page.
+
+- An image of a cost range has been added to each upcoming activity so that users are able to quickly assess if the activity is within their budget.
+
+- Call to action buttons appear at the top and bottom of the page.
 
 <br>
 
 ### Support
+The support page consists of:
+- A call to action button at the top of the page takes the user to the end of this page to view an embedded YouTube video of a short meditation exercise.
+
+- Like the homepage this page is split into three seperate sections. Each section provides the user with a heading, summary and then a number of links to external sites. Each link opens in a new tab for a good user experience.
+
+- At the end of the page a YouTube video is embedded. The video links well with the lower section of this page regarding mindfulness and wellbeing. The video is also set so as not to autoplay.
 
 <br>
 
 ### Contact
+This page consists of:
+- A form: The form allows the user to contact the organisation with their basic details. It offers a choice of primary reasons for their contact, and allows an area for a free text message.
+
+- Contact information: Each different method of contact is shown with a corresponding icon for easy recognition.
+
+- Google Maps: A google map of the Exeter area is included
 
 <br>
 
 ### Thank You
+This page consists of:
+- A thank you message confirming to the user that their message has been submitted and that someone will be in touch with them soon.
+- An image of a little girl using a mobile phone
 
 <br>
 
@@ -245,8 +266,12 @@ In addition to simply being best practice, having an accessible website is extre
 <br>
 
 ### **Future Features**
-burger menu
-booking system
+In the future there are features and developments I would like to consider adding to create an even better user experience of this website. They include:
+
+- Use javascript to create a hamburger menu for the navigation bar on smaller devices.
+- Add a filter tool on the dates page for users to filter activities by certain criteria such as cost, location, or date.
+- Add a booking system so that users could reserve spaces on activities or even pay for certain activities in advance.
+- Look at refining the use of space on the Contact page particularly in relation to laptop and larger devices. I believe there could be more balance or better use of white space.
 
 <br>
 
