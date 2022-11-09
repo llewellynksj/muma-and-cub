@@ -204,11 +204,17 @@ The website has 4 main pages accessible to the user which include the homepage, 
 - Footer: The footer contains two universally recognised icons for social media; Facebook and Instagram. These have intentionally been chosen as they are the most appropriate for the organisation, and also to keep the footer uncluttered.
 
 ### Homepage
-Taking the user on a journey
-- Next meet up: on mobile shows only the very next meet-up, on tablet shows the next two, on desktop shows the next 3
-- About: tells the user who this group is for
-- Support resources: shows the user that the group is more than just a social group
-- Imagery: keeps the key information on the homepage obviously clear and seperate
+The homepage is split into three sections. These sections take the user on a clear journey as to what to expect from the website. 
+
+Each section has relevant imagery that both indicates that the website is related to young children/parents, and that clearly seperates the information into a flowing format.
+
+At the end of each section of text there is a call to action button allowing the user to link to another place or page on the website related to that specific piece of text.
+
+- Top section: The central element that appears here shows information regarding the next meet up date, time and location. This is responsive across devices so will show 1 upcoming date on mobile and tablet screens, 2 upcoming dates on laptop screens, and 3 upcoming dates on desktop.
+
+- Middle section: This informs the user as to what the organisation does and who it is for. Again this is styled to be responsive with a shorter summary of text for mobile, tablet and laptop screen sizes, whilst on larger desktop size screens slightly more information is visible. This has been done to keep the 'About us' section from appearing verbose while also managing white space on larger screens.
+
+- Lower section: The lower section shows the user that the organisation is more than just a social group but also a community *support* group. Icons have been used here to make the list of types of support more visually appealing.
 
 <br>
 
