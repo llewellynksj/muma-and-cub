@@ -61,9 +61,11 @@ Mama & Cub is a simple to use website aimed at bringing together parents and the
 ## User Experience (UX)
 ### **Purpose**
 
-Muma & Cub has been created as a fictional website for the purposes of completing the first milestone project as part of the Code Institute's Full Stack Software Development course. It developed as an idea from personal experience of needing a social support group for parents in the local community. The needs of new parents are central to considerations around User Experience (UX) and User Interface Design (UI) and this is reflected throughout the site.
+Muma & Cub has been created as a fictional website for the purposes of completing the first milestone project as part of the Code Institute's Full Stack Software Development course. It developed as an idea out of personal experience of needing a social support group for parents in the local community. The needs of new parents are central to considerations around User Experience (UX) and User Interface Design (UI) and this is reflected throughout the site.
 
 The site has been built with a mobile-first responsive design. Keeping the needs of the user at the forefront of the design process particularly in the strategy and scope development stages. 
+
+New parents are likely to have little time and little energy. Therefore the focus around the design of this website has been to keep things simple, clean and calm.  
 
 <br>
 
@@ -125,6 +127,8 @@ This image was chosen as it immediately represents children, fun and play. On se
 ![image of the logo; a black and white outline of a teddy bear](documentation/readme-images/bearlogo.webp)
 
 The images reflecting the cost of activities on the dates page were created by me using [Canva](https://www.canva.com/). I ensured the colours used throughout the website were also reflected in these images.
+
+![image of all cost range icons used on the dates webpage](documentation/readme-images/cost-icons-all.webp)
 
 Icons used on the homepage and support page were imported through [Font Awesome](https://fontawesome.com/).
 
@@ -193,9 +197,11 @@ For a full PDF of all wireframes (mobile, tablet, desktop) click [here](document
 The website has 4 main pages accessible to the user which include the homepage, dates page, support page and contact page. There is also a thank you page which only shows on submission of the contact form.
 
 **All** pages include the following features:
-- Logo and tagline: 
-- Navigation bar:
-- Footer:
+- Logo and tagline: The logo and tagline appear on each page clearly showing the name of the organisation that the site belongs to and what the organisation is, e.g. 'a social group for parents in Devon'. When the user scrolls down the page the logo and tagline do not remain fixed (unlike the navigation bar - see below) to ensure the maximum amount of screen space is utilised by content.
+
+- Navigation bar: The navigation menu allows users to move through the different pages of the website. A sticky positioning has been used here so that the links to the other pages remain fixed and in sight even when scrolling; this ensures a good user experience across all devices.
+
+- Footer: The footer contains two universally recognised icons for social media; Facebook and Instagram. These have intentionally been chosen as they are the most appropriate for the organisation, and also to keep the footer uncluttered.
 
 ### Homepage
 Taking the user on a journey
