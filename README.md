@@ -203,6 +203,8 @@ The website has 4 main pages accessible to the user which include the homepage, 
 
 - Footer: The footer contains two universally recognised icons for social media; Facebook and Instagram. These have intentionally been chosen as they are the most appropriate for the organisation, and also to keep the footer uncluttered.
 
+<br>
+
 ### Homepage
 The homepage is split into three sections. These sections take the user on a clear journey as to what to expect from the website. 
 
@@ -278,6 +280,24 @@ In the future there are features and developments I would like to consider addin
 ----
 
 ## Technologies
+### **Languages Used**
+This website has been written in HTML and CSS only.
+
+<br>
+
+**Frameworks, Libraries and Programs Used**
+- Github: Storing and hosting my code/repositories
+- Gitpod: Code editor for writing my code and storing other images/files
+- Font Awesome: For icons used throughout the site
+- Google Fonts: To import the fonts used throughout the site
+- Coolors: Colour palette picking website used to choose my colour scheme
+- Pexels: Stock images
+- Google DevTools: Used throughout the site's creation to test responsiveness and tweak layout
+- Balsamiq: Wireframe software
+- [Favicon.io](https://favicon.io/): To create favicon
+- [Am I Responsive](https://ui.dev/amiresponsive): To create a visual of the website across different device sizes
+- [BIRME](https://www.birme.net/?): To resize images
+- [ezgif.com](https://ezgif.com/png-to-webp): To convert images to webp files
 
 <br>
 
