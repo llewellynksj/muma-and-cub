@@ -308,6 +308,7 @@ This website has been written in HTML and CSS only.
 - Am I Responsive: To create a visual of the website across different device sizes
 - [BIRME](https://www.birme.net/?) To resize images
 - [ezgif.com](https://ezgif.com/png-to-webp) To convert images to webp files
+- [Gyazo](https://gyazo.com/) To create GIFs to use in the README
 
 <br>
 
@@ -463,8 +464,7 @@ For Desktop
 ![Screenshot of Lighthouse testing for Muma & Cub thank you page on desktop](documentation/testing/thankyou-desktop.PNG)
 </details>
 
-
-
+<br>
 
 ### **Validator Testing**
   - HTML
