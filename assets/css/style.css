@@ -326,10 +326,6 @@ footer {
     display: grid;  
 }
 
-.icon-item {
-    align-self: bottom;
-}
-
 /* ******************** support page styles ******************** */
 .support-text, .support-links {
     text-align: center;
