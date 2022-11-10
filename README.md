@@ -467,11 +467,44 @@ For Desktop
 <br>
 
 ### **Validator Testing**
-  - HTML
+HTML
+<details>
+<summary>Homepage</summary>
+
+![Screenshot of WC3 testing for Muma & Cub homepage](documentation/testing/homepage.PNG)
+</details>
+<details>
+<summary>Dates Page</summary>
+
+![Screenshot of WC3 testing for Muma & Cub dates page](documentation/testing/dates.PNG)
+</details>
+<details>
+<summary>Support Page</summary>
+
+![Screenshot of WC3 testing for Muma & Cub support page](documentation/testing/support.PNG)
+</details>
+<details>
+<summary>Contact Page</summary>
+
+![Screenshot of WC3 testing for Muma & Cub contact page](documentation/testing/contact.PNG)
+
+I have chosen not to fix the error received regarding the height and width of the embedded Google Maps in HTML. This is a decision taken following a suggestion from a resource ([Codefoxx](https://www.youtube.com/watch?v=825ZZcArSWY)) on assigning a 100% width and height in HTML and altering the container size for the map in CSS.
+</details>
+<details>
+<summary>Thank you Page</summary>
+
+![Screenshot of WC3 testing for Muma & Cub thank you page](documentation/testing/thankyou.PNG)
+</details>
+
 
   <br>
 
-  - CSS
+  CSS
+  <details>
+<summary>Stylesheet</summary>
+
+![Screenshot of W3C Jigsaw testing for Muma & Cub CSS Stylesheet](documentation/testing/stylesheet.PNG)
+</details>
 
   <br>
 
