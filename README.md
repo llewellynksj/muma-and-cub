@@ -73,9 +73,9 @@ New parents are likely to have little time and little energy. Therefore the focu
 ### **Client Goals**
 - To inform visitors where and when they can join a Muma & Cub meet up
 - To offer a clear and simple way to reserve places on meet ups where necessary
-- To make it easy for visitors to find future meet up dates
 - To easily be able to find support resources
 - To be able to view on a range of device sizes
+- Create a welcoming non-judgemental brand identity
 
 <br>
 
@@ -360,6 +360,37 @@ Testing was performed across a range of devices, including:
 <br>
 
 ### **User Story Testing**
+
+| Client Goal | Solution | Tested & Successfully Completed |
+| :----| :---| :----------------------:|
+| To inform visitors where and when they can join a Muma & Cub meet up  | Immediately visible on homepage with call to action button directing to dates page with further information. | Yes |
+| To offer a clear and simple way to reserve places on meet ups where necessary.  | Each upcoming activity box states if booking is required, and a statement and button at the top of the dates page advises to get in touch to reserve spaces. | Yes |
+| To easily be able to find support resources | Visible at the bottom of the homepage, and via the dedicated Support page. | Yes
+| To be able to view on a range of device sizes  | Responsive design means style is kept intact across different devices. | Yes |
+| Create a welcoming non-judgemental brand identity | Reinforced through colour scheme, font style, language used and imagery. | Yes|
+
+<br>
+
+| First Time Visitor Goal | Solution | Tested & Successfully Completed |
+| :----| :---| :----------------------:|
+| I want to find out when and where Muma & Cub meets  | Immediately visible on homepage with call to action button directing to dates page with further information. | Yes |
+| I want to get an impression of how welcoming the group is  | Emphasis is given to this through language used in the 'About us' section of the homepage. Also through use of colour scheme, fonts and imagery. | Yes |
+| I want to find out how much upcoming activities cost | Each upcoming activity states the exact cost, but a price range is indicated with an image of 'Free/£/££/£££' on the Dates page. | Yes
+| I want to easily be able to reserve a place on an upcoming activity  | The method of doing this is stated at the very start of the Dates page as well as appearing as an option for contact reason on the form. | Yes |
+
+<br>
+
+| Returning Visitor Goal | Solution | Tested & Successfully Completed |
+| :----| :---| :----------------------:|
+| I want to easily see what meet ups are coming in the future | Immediately visible on homepage with call to action button directing to dates page with further information. | Yes |
+| I want to access support resources  | Visible at the bottom of the homepage, and via the dedicated Support page. | Yes |
+| I want to contact Muma & Cub if I have any questions | The Contact page provides a form for contacting Muma & Cub. Other ways of contacting are also given including direct email address, phone number and Facebook Messenger. | Yes
+
+<br>
+
+| Frequent Visitor Goal | Solution | Tested & Successfully Completed |
+| :----| :---| :----------------------:|
+| I want to be able to recommend a new meet up activity or location | This is possible via the contact Form. | Yes |
 
 <br>
 
