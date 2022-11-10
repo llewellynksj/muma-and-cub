@@ -201,6 +201,8 @@ The website has 4 main pages accessible to the user which include the homepage, 
 
 - Navigation bar: The navigation menu allows users to move through the different pages of the website. A sticky positioning has been used here so that the links to the other pages remain fixed and in sight even when scrolling; this ensures a good user experience across all devices.
 
+[![Image from Gyazo](https://i.gyazo.com/0920a4717b4b397e831290acc6d91077.gif)](https://gyazo.com/0920a4717b4b397e831290acc6d91077)
+
 - Footer: The footer contains two universally recognised icons for social media; Facebook and Instagram. These have intentionally been chosen as they are the most appropriate for the organisation, and also to keep the footer uncluttered.
 
 <br>
@@ -208,11 +210,13 @@ The website has 4 main pages accessible to the user which include the homepage, 
 ### Homepage
 The homepage is split into three sections. These sections take the user on a clear journey as to what to expect from the website. 
 
-Each section has relevant imagery that both indicates that the website is related to young children/parents, and that clearly seperates the information into a flowing format.
+Each section has relevant imagery that both indicates that the website is related to young children/parents, and that clearly seperates the information into format that flows.
 
 At the end of each section of text there is a call to action button allowing the user to link to another place or page on the website related to that specific piece of text.
 
 - Top section: The central element that appears here shows information regarding the next meet up date, time and location. This is responsive across devices so will show 1 upcoming date on mobile and tablet screens, 2 upcoming dates on laptop screens, and 3 upcoming dates on desktop.
+
+![Screenshot of the Muma & Cub home page](documentation/readme-images/homepage.PNG)
 
 - Middle section: This informs the user as to what the organisation does and who it is for. Again this is styled to be responsive with a shorter summary of text for mobile, tablet and laptop screen sizes, whilst on larger desktop size screens slightly more information is visible. This has been done to keep the 'About us' section from appearing verbose while also managing white space on larger screens.
 
@@ -228,6 +232,8 @@ The dates page consists of:
 
 - Call to action buttons appear at the top and bottom of the page.
 
+![Screenshot of Muma & Cub Dates page](documentation/readme-images/dates-page.PNG)
+
 <br>
 
 ### Support
@@ -238,6 +244,8 @@ The support page consists of:
 
 - At the end of the page a YouTube video is embedded. The video links well with the lower section of this page regarding mindfulness and wellbeing. The video is also set so as not to autoplay.
 
+![Screenshot of Muma & Cub Support page](documentation/readme-images/support-page.PNG)
+
 <br>
 
 ### Contact
@@ -247,6 +255,8 @@ This page consists of:
 - Contact information: Each different method of contact is shown with a corresponding icon for easy recognition.
 
 - Google Maps: A google map of the Exeter area is included
+
+![Screenshot of Muma & Cub Contact page](documentation/readme-images/contact-page.PNG)
 
 <br>
 
