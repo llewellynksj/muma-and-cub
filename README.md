@@ -11,49 +11,48 @@ Mama & Cub is a simple to use website aimed at bringing together parents and the
 ## Contents
 ----
 
-### User Experience (UX)
-- Purpose
-- User Stories
-  - First Time Visitors
-  - Returning Visitors
-  - Frequent Users
+### [User Experience (UX)](#user-experience-ux-1)
+- [Purpose](#purpose)
+- [User Stories](#user-stories)
+  - [First Time Visitors](#first-time-visitor-goals)
+  - [Returning Visitors](#returning-visitor-goals)
+  - [Frequent Users](#frequent-visitor-goals)
 
-### Design
-- Colour Scheme
-- Typography
-- Imagery
-- Wireframes
+### [Design](#design-1)
+- [Colour Scheme](#colour-scheme)
+- [Typography](#typography)
+- [Imagery](#imagery)
+- [Wireframes](#wireframes)
 
-### Features
-- Existing Features
-  - Homepage
-  - Dates
-  - Support
-  - Contact
-  - Thank You
-- Accessibility
-- Future Features
+### [Features](#features-1)
+- [Existing Features](#existing-features)
+  - [Homepage](#homepage)
+  - [Dates](#dates)
+  - [Support](#support)
+  - [Contact](#contact)
+  - [Thank You](#thank-you)
+- [Accessibility](#accessibility)
+- [Future Features](#future-features)
 
-### Technologies
+### [Technologies](#technologies-1)
 
-### Deployment
+### [Deployment](#deployment-1)
 
-### Testing
-- Function Testing
-- User Story Testing
-- Lighthouse
-- Validator Testing
-  - HTML
-  - CSS
-- Bugs
+### [Testing](#testing-1)
+- [Function Testing](#function-testing)
+- [User Story Testing](#user-story-testing)
+- [Lighthouse](#lighthouse)
+- [Validator Testing](#validator-testing)
+- [Bugs](#bugs)
 
-### Credits
-- Resources
-- Acknowledgements
+### [Credits](#credits-1)
+- [Resources](#resources)
+- [Acknowledgements](#acknowledgements)
 
 <br>
 
 ----
+
 <br>
 
 ## User Experience (UX)
