@@ -303,8 +303,31 @@ This website has been written in HTML and CSS only.
 
 ----
 
-## Deployment
+## Version Control
+Version control has been maintained using Git. The code written for this website has been updated via regular commits to Github. These serve as a record of development and changes to the varying pages of html and css.
 
+My commit history can be viewed [here](https://github.com/llewellynksj/muma-and-cub/commits/main)
+
+<br>
+
+----
+
+## Deployment
+Github was used to deploy the website. The steps below were followed in order to achieve this:
+
+1. Log in to Github account
+2. Navigate to the project repository
+3. Click the 'Settings' button near the top of the page
+4. Click the 'Pages' button from the left-hand menu
+5. The 'Source' box should state 'Deploy from a branch'
+6. Under the 'Branch' box click to select 'main'
+
+![Screenshot of step 6](documentation/readme-images/GithubPages.webp)
+
+7. Click 'Save'
+8. It may take a few minutes to refresh but you will then be able to see the project has been made live
+
+![Screenshot of step 8 showing the live link to the project on Github Pages](documentation/readme-images/GithubPages-Live.webp)
 <br>
 
 ----
