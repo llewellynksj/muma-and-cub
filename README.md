@@ -333,7 +333,34 @@ Github was used to deploy the website. The steps below were followed in order to
 ----
 
 ## Testing
+Testing was performed across a range of devices, including:
+- HP Elitebook 840 GS (1920 x 1080)
+- HP Monitor ()
+- Surface Pro ()
+- iPhone 13 mini
+
 ### **Function Testing**
+
+| Page | Test | Successfully Completed |
+| :----| :---| :----------------------:|
+| All  | Logo text links back to homepage | Yes |
+| All  | Navigation links go to relevant page | Yes |
+| All  | Navigation menu remains fixed at top of page on scroll | Yes |
+| All  | Social media icons in footer link to external sites, opening in new tabs | Yes
+| All  | Call to action buttons link to relevant page | Yes |
+| All  | External links open to correct page and in a new tab | Yes |
+| | | |
+| Homepage | Images and text flex responsively | Yes |
+| | | |
+| Dates  | Grid is responsive | Yes |
+| | | |
+| Support  | Images and text flex responsively | Yes |
+| Support  | Embedded YouTube video is responsive | Yes |
+| | | |
+| Contact  | Required elements are active on the form | Yes |
+| Contact  | Submit button directs to thank you page | Yes |
+| Contact  | Email, Phone and Facebook Messenger contact links open in the relevant systems | Yes |
+| | | |
 
 <br>
 
