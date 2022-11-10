@@ -349,18 +349,13 @@ Testing was performed across a range of devices, including:
 | All  | Social media icons in footer link to external sites, opening in new tabs | Yes
 | All  | Call to action buttons link to relevant page | Yes |
 | All  | External links open to correct page and in a new tab | Yes |
-| | | |
 | Homepage | Images and text flex responsively | Yes |
-| | | |
 | Dates  | Grid is responsive | Yes |
-| | | |
 | Support  | Images and text flex responsively | Yes |
 | Support  | Embedded YouTube video is responsive | Yes |
-| | | |
 | Contact  | Required elements are active on the form | Yes |
 | Contact  | Submit button directs to thank you page | Yes |
 | Contact  | Email, Phone and Facebook Messenger contact links open in the relevant systems | Yes |
-| | | |
 
 <br>
 
