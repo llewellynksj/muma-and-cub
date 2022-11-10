@@ -494,6 +494,7 @@ For Desktop
 - [CSS-Tricks](https://css-tricks.com/) - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) and [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [The Forgotten CSS Position](https://www.youtube.com/watch?v=NzjU1GmKosQ) YouTube video by [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified) 
 - [Embed a YouTube Video in HTML and Make it Responsive](https://www.youtube.com/watch?v=9YffrCViTVk) YouTube video by [tipswithpunch](https://www.youtube.com/c/tipswithpunch)
+- [HTML & CSS - How to Embed a Google Map in your Website](https://www.youtube.com/watch?v=825ZZcArSWY) Youtube video by [Codefoxx](https://www.youtube.com/c/codefoxx)
 - [Handbook Markdown Guide](https://about.gitlab.com/handbook/markdown-guide/) Guidance on using markdown
 - README guides by [Kera Cudmore](https://github.com/kera-cudmore) - [Creating your First README](https://github.com/kera-cudmore/readme-examples) and [README Examples - Milestone 1](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md)
 
