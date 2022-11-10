@@ -36,6 +36,8 @@ Mama & Cub is a simple to use website aimed at bringing together parents and the
 
 ### [Technologies](#technologies-1)
 
+### [Version Control](#version-control-1)
+
 ### [Deployment](#deployment-1)
 
 ### [Testing](#testing-1)
