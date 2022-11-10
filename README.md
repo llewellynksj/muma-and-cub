@@ -280,7 +280,7 @@ In addition to simply being best practice, having an accessible website is extre
 ### **Future Features**
 In the future there are features and developments I would like to consider adding to create an even better user experience of this website. They include:
 
-- Use javascript to create a hamburger menu for the navigation bar on smaller devices.
+- Use javascript to create a hamburger menu for the navigation bar on smaller devices. I am aware that a burger menu can be created using just HTML and CSS but I felt the process was taking too long for me to learn and implement for this project.
 - Add a filter tool on the dates page for users to filter activities by certain criteria such as cost, location, or date.
 - Add a booking system so that users could reserve spaces on activities or even pay for certain activities in advance.
 - Look at refining the use of space on the Contact page particularly in relation to laptop and larger devices. I believe there could be more balance or better use of white space.
