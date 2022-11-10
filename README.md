@@ -405,8 +405,66 @@ Testing was performed across a range of devices, including:
 <br>
 
 ### **Lighthouse**
+Some bugs were found when running Lighthouse testing. These are listed in the [Bugs](#bugs) section.
+
+For Mobile Devices
+<details>
+<summary>Homepage</summary>
+
+![Screenshot of Lighthouse testing for Muma & Cub homepage on mobile devices](documentation/testing/homepage-mobile.PNG)
+</details>
+<details>
+<summary>Dates Page</summary>
+
+![Screenshot of Lighthouse testing for Muma & Cub dates page on mobile devices](documentation/testing/dates-mobile.PNG)
+</details>
+<details>
+<summary>Support Page</summary>
+
+![Screenshot of Lighthouse testing for Muma & Cub support page on mobile devices](documentation/testing/support-mobile.PNG)
+</details>
+<details>
+<summary>Contact Page</summary>
+
+![Screenshot of Lighthouse testing for Muma & Cub contact page on mobile devices](documentation/testing/contact-mobile.PNG)
+</details>
+<details>
+<summary>Thank you Page</summary>
+
+![Screenshot of Lighthouse testing for Muma & Cub thank you page on mobile devices](documentation/testing/thankyou-mobile.PNG)
+</details>
 
 <br>
+
+For Desktop
+<details>
+<summary>Homepage</summary>
+
+![Screenshot of Lighthouse testing for Muma & Cub homepage on desktop](documentation/testing/homepage-desktop.PNG)
+</details>
+<details>
+<summary>Dates Page</summary>
+
+![Screenshot of Lighthouse testing for Muma & Cub dates page on desktop](documentation/testing/dates-desktop.PNG)
+</details>
+<details>
+<summary>Support Page</summary>
+
+![Screenshot of Lighthouse testing for Muma & Cub support page on desktop](documentation/testing/support-desktop.PNG)
+</details>
+<details>
+<summary>Contact Page</summary>
+
+![Screenshot of Lighthouse testing for Muma & Cub contact page on desktop](documentation/testing/contact-desktop.PNG)
+</details>
+<details>
+<summary>Thank you Page</summary>
+
+![Screenshot of Lighthouse testing for Muma & Cub thank you page on desktop](documentation/testing/thankyou-desktop.PNG)
+</details>
+
+
+
 
 ### **Validator Testing**
   - HTML
@@ -448,4 +506,3 @@ I would like to take a moment to acknowledge some key people who helped me in su
 - James Llewellyn for taking the time to test every single tiny change I made to my code throughout the development process, and his invaluable opinions
 - My NCT antental group for providing me with a real-life target audience testing group; Sam Landy, Sarah Turner, Christina Collins, Hess Lewis, Sabine Jary, and Katie Bennett
 - [Kera Cudmore]() for all of her excellent advice on creating README documentation
-- Peer code review responses
