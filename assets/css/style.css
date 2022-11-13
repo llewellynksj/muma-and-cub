@@ -648,4 +648,10 @@ textarea {
     #lower-text h2 {
         margin-bottom: 20px;
     }
+
+    /* dates page styles */
+
+    .grid-container {
+        grid-template-columns: repeat(4, 340px);
+    }
 }
