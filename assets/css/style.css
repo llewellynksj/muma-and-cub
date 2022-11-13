@@ -624,7 +624,7 @@ textarea {
 @media only screen and (min-width: 1600px) {
     /* common styles */
     body {
-        max-width: 1600px;
+        max-width: 2000px;
         margin: 0 auto;
     }
 
