@@ -104,7 +104,7 @@ New parents are likely to have little time and little energy. Therefore the focu
 ### **Colour Scheme**
 This website uses a palette of earthy colours with shades pulled from greens, pinks and browns. These embody the feel that I wanted to create for the site; natural and calming. The palette was created using the [Coolors](https://coolors.co/) website.
 
-![Image of colour palette from Coolors.co](documentation/readme-images/Muma-Cub-Palette.jpg)
+![Image of colour palette from Coolors.co](documentation/readme-images/muma-cub-palette.jpg)
 
 <br>
 
@@ -138,12 +138,12 @@ To create the wireframes I used the [Balsamiq Wireframing Software](https://bals
 <details>
 <summary>Homepage (mobile)</summary>
 
-![Wireframe image of homepage design on mobile](documentation/wireframes/homepage-full-mobile.PNG)
+![Wireframe image of homepage design on mobile](documentation/wireframes/homepage-full-mobile.png)
 </details>
 <details>
 <summary>Homepage (desktop)</summary>
 
-![Wireframe image of homepage design on desktop](documentation/wireframes/homepage-desktop-full.PNG)
+![Wireframe image of homepage design on desktop](documentation/wireframes/homepage-desktop-full.png)
 </details>
 
 <br>
@@ -151,12 +151,12 @@ To create the wireframes I used the [Balsamiq Wireframing Software](https://bals
 <details>
 <summary>Dates page (mobile)</summary>
 
-![Wireframe image of dates page design on mobile](documentation/wireframes/dates-mobile.PNG)
+![Wireframe image of dates page design on mobile](documentation/wireframes/dates-mobile.png)
 </details>
 <details>
 <summary>Dates page (desktop)</summary>
 
-![Wireframe image of dates page design on desktop](documentation/wireframes/dates-desktop.PNG)
+![Wireframe image of dates page design on desktop](documentation/wireframes/dates-desktop.png)
 </details>
 
 <br>
@@ -164,12 +164,12 @@ To create the wireframes I used the [Balsamiq Wireframing Software](https://bals
 <details>
 <summary>Support page (mobile)</summary>
 
-![Wireframe image of support page design on mobile](documentation/wireframes/support-mobile.PNG)
+![Wireframe image of support page design on mobile](documentation/wireframes/support-mobile.png)
 </details>
 <details>
 <summary>Support page (desktop)</summary>
 
-![Wireframe image of support page design on desktop](documentation/wireframes/support-desktop-full.PNG)
+![Wireframe image of support page design on desktop](documentation/wireframes/support-desktop-full.png)
 </details>
 
 <br>
@@ -177,17 +177,17 @@ To create the wireframes I used the [Balsamiq Wireframing Software](https://bals
 <details>
 <summary>Contact page (mobile)</summary>
 
-![Wireframe image of contact page design on mobile](documentation/wireframes/contact-mobile.PNG)
+![Wireframe image of contact page design on mobile](documentation/wireframes/contact-mobile.png)
 </details>
 <details>
 <summary>Contact page (desktop)</summary>
 
-![Wireframe image of contact page design on desktop](documentation/wireframes/contact-desktop.PNG)
+![Wireframe image of contact page design on desktop](documentation/wireframes/contact-desktop.png)
 </details>
 
 <br>
 
-For a full PDF of all wireframes (mobile, tablet, desktop) click [here](documentation/wireframes/Muma%20%26%20Cub%20Wireframes.pdf).
+For a full PDF of all wireframes (mobile, tablet, desktop) click [here](documentation/wireframes/muma-cub-wireframes.pdf).
 
 ----
 
@@ -213,9 +213,9 @@ Each section has relevant imagery that both indicates that the website is relate
 
 At the end of each section of text there is a call to action button allowing the user to link to another place or page on the website related to that specific piece of text.
 
-- Top section: The central element that appears here shows information regarding the next meet up date, time and location. This is responsive across devices so will show 1 upcoming date on mobile and tablet screens, 2 upcoming dates on laptop screens, and 3 upcoming dates on desktop.
+- Top section: The central element that appears here shows information regarding the next meet up date, time and location. This is responsive across devices so will show 1 upcoming date on mobile, 2 upcoming dates on tablet screens and laptop screens, and 3 upcoming dates on desktop.
 
-![Screenshot of the Muma & Cub home page](documentation/readme-images/homepage.PNG)
+![Screenshot of the Muma & Cub home page](documentation/readme-images/homepage.png)
 
 - Middle section: This informs the user as to what the organisation does and who it is for. Again this is styled to be responsive with a shorter summary of text for mobile, tablet and laptop screen sizes, whilst on larger desktop size screens slightly more information is visible. This has been done to keep the 'About us' section from appearing verbose while also managing white space on larger screens.
 
@@ -231,7 +231,7 @@ The dates page consists of:
 
 - Call to action buttons appear at the top and bottom of the page.
 
-![Screenshot of Muma & Cub Dates page](documentation/readme-images/dates-page.PNG)
+![Screenshot of Muma & Cub Dates page](documentation/readme-images/dates-page.png)
 
 <br>
 
@@ -243,7 +243,7 @@ The support page consists of:
 
 - At the end of the page a YouTube video is embedded. The video links well with the lower section of this page regarding mindfulness and wellbeing. The video is also set so as not to autoplay.
 
-![Screenshot of Muma & Cub Support page](documentation/readme-images/support-page.PNG)
+![Screenshot of Muma & Cub Support page](documentation/readme-images/support-page.png)
 
 <br>
 
@@ -255,7 +255,7 @@ This page consists of:
 
 - Google Maps: A google map of the Exeter area is included
 
-![Screenshot of Muma & Cub Contact page](documentation/readme-images/contact-page.PNG)
+![Screenshot of Muma & Cub Contact page](documentation/readme-images/contact-page.png)
 
 <br>
 
@@ -332,12 +332,12 @@ Github was used to deploy the website. The steps below were followed in order to
 5. The 'Source' box should state 'Deploy from a branch'
 6. Under the 'Branch' box click to select 'main'
 
-![Screenshot of step 6](documentation/readme-images/GithubPages.webp)
+![Screenshot of step 6](documentation/readme-images/github-pages.webp)
 
 7. Click 'Save'
 8. It may take a few minutes to refresh but you will then be able to see the project has been made live
 
-![Screenshot of step 8 showing the live link to the project on Github Pages](documentation/readme-images/GithubPages-Live.webp)
+![Screenshot of step 8 showing the live link to the project on Github Pages](documentation/readme-images/github-pages-live.webp)
 <br>
 
 ----
@@ -411,27 +411,27 @@ For Mobile Devices
 <details>
 <summary>Homepage</summary>
 
-![Screenshot of Lighthouse testing for Muma & Cub homepage on mobile devices](documentation/testing/homepage-mobile.PNG)
+![Screenshot of Lighthouse testing for Muma & Cub homepage on mobile devices](documentation/testing/homepage-mobile.png)
 </details>
 <details>
 <summary>Dates Page</summary>
 
-![Screenshot of Lighthouse testing for Muma & Cub dates page on mobile devices](documentation/testing/dates-mobile.PNG)
+![Screenshot of Lighthouse testing for Muma & Cub dates page on mobile devices](documentation/testing/dates-mobile.png)
 </details>
 <details>
 <summary>Support Page</summary>
 
-![Screenshot of Lighthouse testing for Muma & Cub support page on mobile devices](documentation/testing/support-mobile.PNG)
+![Screenshot of Lighthouse testing for Muma & Cub support page on mobile devices](documentation/testing/support-mobile.pngg)
 </details>
 <details>
 <summary>Contact Page</summary>
 
-![Screenshot of Lighthouse testing for Muma & Cub contact page on mobile devices](documentation/testing/contact-mobile.PNG)
+![Screenshot of Lighthouse testing for Muma & Cub contact page on mobile devices](documentation/testing/contact-mobile.png)
 </details>
 <details>
 <summary>Thank you Page</summary>
 
-![Screenshot of Lighthouse testing for Muma & Cub thank you page on mobile devices](documentation/testing/thankyou-mobile.PNG)
+![Screenshot of Lighthouse testing for Muma & Cub thank you page on mobile devices](documentation/testing/thankyou-mobile.png)
 </details>
 
 <br>
@@ -440,27 +440,27 @@ For Desktop
 <details>
 <summary>Homepage</summary>
 
-![Screenshot of Lighthouse testing for Muma & Cub homepage on desktop](documentation/testing/homepage-desktop.PNG)
+![Screenshot of Lighthouse testing for Muma & Cub homepage on desktop](documentation/testing/homepage-desktop.png)
 </details>
 <details>
 <summary>Dates Page</summary>
 
-![Screenshot of Lighthouse testing for Muma & Cub dates page on desktop](documentation/testing/dates-desktop.PNG)
+![Screenshot of Lighthouse testing for Muma & Cub dates page on desktop](documentation/testing/dates-desktop.png)
 </details>
 <details>
 <summary>Support Page</summary>
 
-![Screenshot of Lighthouse testing for Muma & Cub support page on desktop](documentation/testing/support-desktop.PNG)
+![Screenshot of Lighthouse testing for Muma & Cub support page on desktop](documentation/testing/support-desktop.png)
 </details>
 <details>
 <summary>Contact Page</summary>
 
-![Screenshot of Lighthouse testing for Muma & Cub contact page on desktop](documentation/testing/contact-desktop.PNG)
+![Screenshot of Lighthouse testing for Muma & Cub contact page on desktop](documentation/testing/contact-desktop.png)
 </details>
 <details>
 <summary>Thank you Page</summary>
 
-![Screenshot of Lighthouse testing for Muma & Cub thank you page on desktop](documentation/testing/thankyou-desktop.PNG)
+![Screenshot of Lighthouse testing for Muma & Cub thank you page on desktop](documentation/testing/thankyou-desktop.png)
 </details>
 
 <br>
@@ -470,29 +470,29 @@ HTML
 <details>
 <summary>Homepage</summary>
 
-![Screenshot of WC3 testing for Muma & Cub homepage](documentation/testing/homepage.PNG)
+![Screenshot of WC3 testing for Muma & Cub homepage](documentation/testing/homepage.png)
 </details>
 <details>
 <summary>Dates Page</summary>
 
-![Screenshot of WC3 testing for Muma & Cub dates page](documentation/testing/dates.PNG)
+![Screenshot of WC3 testing for Muma & Cub dates page](documentation/testing/dates.png)
 </details>
 <details>
 <summary>Support Page</summary>
 
-![Screenshot of WC3 testing for Muma & Cub support page](documentation/testing/support.PNG)
+![Screenshot of WC3 testing for Muma & Cub support page](documentation/testing/support.png)
 </details>
 <details>
 <summary>Contact Page</summary>
 
-![Screenshot of WC3 testing for Muma & Cub contact page](documentation/testing/contact.PNG)
+![Screenshot of WC3 testing for Muma & Cub contact page](documentation/testing/contact.png)
 
 I have chosen not to fix the error received regarding the height and width of the embedded Google Maps in HTML. This is a decision taken following a suggestion from a resource ([Codefoxx](https://www.youtube.com/watch?v=825ZZcArSWY)) on assigning a 100% width and height in HTML and altering the container size for the map in CSS.
 </details>
 <details>
 <summary>Thank you Page</summary>
 
-![Screenshot of WC3 testing for Muma & Cub thank you page](documentation/testing/thankyou.PNG)
+![Screenshot of WC3 testing for Muma & Cub thank you page](documentation/testing/thankyou.png)
 </details>
 
 
@@ -502,7 +502,7 @@ I have chosen not to fix the error received regarding the height and width of th
   <details>
 <summary>Stylesheet</summary>
 
-![Screenshot of W3C Jigsaw testing for Muma & Cub CSS Stylesheet](documentation/testing/stylesheet.PNG)
+![Screenshot of W3C Jigsaw testing for Muma & Cub CSS Stylesheet](documentation/testing/stylesheet.png)
 </details>
 
   <br>
