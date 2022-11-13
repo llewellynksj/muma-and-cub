@@ -547,3 +547,4 @@ I would like to take a moment to acknowledge some key people who helped me in su
 - James Llewellyn for taking the time to test every single tiny change I made to my code throughout the development process, and his invaluable opinions
 - My NCT antental group for providing me with a real-life target audience testing group; Sam Landy, Sarah Turner, Christina Collins, Hess Lewis, Sabine Jary, and Katie Bennett
 - [Kera Cudmore]() for all of her excellent advice on creating README documentation
+- Natalie Dominey for taking the time to respond to my peer code review request with really helpful feedback
