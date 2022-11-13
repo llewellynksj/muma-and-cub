@@ -94,6 +94,7 @@ header *, #nav-bar * {
     position: sticky;
     top: 0;
     z-index: 1;
+    
 }
 
 /* footer styles */
@@ -482,10 +483,19 @@ textarea {
 
 
 /* ******************** tablet styles ******************** */
-@media only screen and (min-width: 601px) {
-    body {
-        width: 680px;
-        margin: 0 auto;
+@media only screen and (min-width: 800px) {
+    #meet-ups {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    #meet-two {
+        display: initial;
+        padding: 10px 0 0 20px;
+    }
+
+    #meet-one {
+        padding: 10px 20px 0 0;
     }
 }
 
@@ -525,6 +535,7 @@ textarea {
     }
 
     #meet-ups {
+        flex-direction: column;
         margin: 0;
     }
 

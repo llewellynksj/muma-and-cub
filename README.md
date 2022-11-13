@@ -519,6 +519,8 @@ I have chosen not to fix the error received regarding the height and width of th
   | WC3 Validator | Font Awesome icons on homepage not nested in a list attribute and the icon cannot be a child of the unordered list attribute | Nest the icons in a list attribute |
   | Target user tester | Images on Support page not clear which heading they belong to when scrolling on mobile | Move images on support page to appear directly above the text they relate to for better flow on mobile devices |
   | Target user tester | When hovering on upcoming dates information the hover feature was causing lines of text to drop to another line on certain size screens | Changed the grid columns from having a min/max of '340, 1fr' to '340, 340' so that the size of the boxes do not change on different screen sizes ensuring the text remains fixed |
+  | Peer code reviewer | A gap was created between the middle section text and the lower section image on 1024-1110px screen size range as the icon size had been increased in the lower section text which also increased the container size | Reduced icon size and margin size to get a balance of the icon size and spacing without creating a gap |
+  | Peer code reviewer | On devices sizes ranging between 601-697px width a horiztonal scroll appears |  |
 
 <br>
 
