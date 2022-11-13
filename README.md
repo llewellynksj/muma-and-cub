@@ -2,7 +2,7 @@
 
 Mama & Cub is a simple to use website aimed at bringing together parents and their children in the Exeter area of South Devon, UK. The site is targeted towards mums who are looking for support from their peers and community. Mama & Cub strives to make information about locations, dates, and costs easy to find for tired parents with little time.
 
-![Image of Mama & Cub website on a varitey of devices with differing screen sizes](documentation/readme-images/amiresponsive.PNG)
+![Image of Mama & Cub website on a varitey of devices with differing screen sizes](documentation/readme-images/amiresponsive.png)
 
 [Visit the Muma & Cub live website here](https://llewellynksj.github.io/muma-and-cub/index.html)
 
@@ -421,7 +421,7 @@ For Mobile Devices
 <details>
 <summary>Support Page</summary>
 
-![Screenshot of Lighthouse testing for Muma & Cub support page on mobile devices](documentation/testing/support-mobile.pngg)
+![Screenshot of Lighthouse testing for Muma & Cub support page on mobile devices](documentation/testing/support-mobile.png)
 </details>
 <details>
 <summary>Contact Page</summary>
